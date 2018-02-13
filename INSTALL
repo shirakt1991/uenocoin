@@ -1,0 +1,9 @@
+Building Uenocoin
+
+See doc/readme-qt.rst for instructions on building Uenocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Uenocoin.
+
+See doc/build-*.txt for instructions on building uenocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Uenocoin.
